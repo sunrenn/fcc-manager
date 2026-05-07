@@ -6,8 +6,6 @@
 
 下面是free-claude-code的readme原文，我打算手动整理一下（AI不要乱动），现在看着太乱！昨天看了一遍好像没记住多少。
 
-我有一个新项目，本地文件夹中有几个刚写的文件，又新建了一个github repo, 该如何把他们连在一起？
-
 ## FCC Readme
 
 ```markdown
